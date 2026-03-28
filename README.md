@@ -21,8 +21,6 @@ All working toward smarter, revenue-focused decisions.
 
 ## 1. Dataset
 
-📥 **[Download the Dataset](https://github.com/SQLicious/Alteryx-Project-Ecommerce-Transaction-Cohort-Analysis/blob/main/1.%20Inputs/transaction_dataset.csv)**
-
 The dataset used here is `transaction_dataset.csv`  
 It covers customer transaction records across **20,000 rows** and **13 columns**, including:
 
